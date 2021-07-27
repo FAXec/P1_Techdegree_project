@@ -152,9 +152,7 @@ a.social {
   opacity: .4;
   transition: all .5s;
 }
-a.Twitter {
-  background-image: url(images/Instagram.svg);
-}
+
 a.linkedin {
   background-image: url(images/linkedin.svg);
 }
@@ -203,6 +201,6 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
-
+  
 }
 
